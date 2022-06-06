@@ -32,6 +32,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
-=======
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
->>>>>>> 012223a86786dcc5fa76c09646955a6e7cb74a0d
